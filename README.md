@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # Warren Buffett Letters (1956–2025)
 
 A curated collection of **91 documents** by Warren E. Buffett, focusing on value investing philosophy and methodology.
