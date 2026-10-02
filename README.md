@@ -4,6 +4,12 @@
 
 A curated collection of **91 documents** by Warren E. Buffett, focusing on value investing philosophy and methodology.
 
+## Start here
+
+- [INDEX.md](INDEX.md): direct Markdown/PDF links, fiscal years, signing dates, and source references.
+- [catalog.json](catalog.json): machine-readable paths and metadata for all 91 Buffett documents plus 6 separately classified non-Buffett documents.
+- [Published multilingual knowledge vault](https://github.com/jayleecn/Warren-Buffett-Letters-Vault): translations and topic/company/people navigation; this repository is the original-source archive.
+
 ## Scope
 
 - **Buffett Associates Partnership Agreement (1956)**: The founding document
@@ -65,7 +71,7 @@ Examples:
 | [1957-1969 Complete Buffett Partnership Letters (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf) | 29 | 1957–1969 |
 | [rbcpa.com](https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/) | 3 | 1966–1968 |
 | [1965-2012 BH Letters to Shareholders (EPUB)](referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub) | 8 | 1970–1977 |
-| [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html) | 55 | 1978–2025 |
+| [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html) | 50 | 1978–2025 |
 
 ## Copyright Notice
 
@@ -90,3 +96,28 @@ Letters not written by Buffett are stored separately in `letters-en-*/non-buffet
 
 - **Kenneth V. Chace** (President, Berkshire Hathaway): 5 early BH annual letters (1965–1969)
 - **Charles T. Munger** (Vice Chairman, Berkshire Hathaway): 1 special letter (2014)
+
+## Maintaining and searching the archive
+
+Search `letters-en-md/` first; use PDF/source versions to verify formatting or provenance. These directories contain different representations of the same documents, so searching all of them can duplicate results. `referance/` contains source collections/indexes rather than the curated reading set.
+
+`catalog.json` is the index metadata authority: `primary`/`author` distinguish authors, `fiscal_year` differs from `signing_date`, and `signing_date_precision` preserves month-only dates. Each record lists `markdown_path`, `pdf_path`, `source_paths`, and a source reference when recorded.
+
+After editing catalog metadata or adding a document, regenerate and validate:
+
+```bash
+python3 scripts/catalog.py --write
+python3 scripts/catalog.py --check
+```
+
+The checker validates every Markdown/PDF pair, author classification, fiscal year, signing date, source path, generated index, and the source-count tables in both READMEs. It does not validate external source availability or the scholarly accuracy of the letter text.
+
+To retrieve just one year or signing date without reading the whole catalog:
+
+```bash
+python3 scripts/catalog.py --year 2024
+python3 scripts/catalog.py --date 2025-02-22
+python3 -m unittest discover -s scripts -p 'test_*.py' -v
+```
+
+Queries return JSON and retain the author/primary fields; fiscal-year results may include the separately classified non-Buffett documents.

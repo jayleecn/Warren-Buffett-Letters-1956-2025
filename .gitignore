@@ -10,3 +10,7 @@ buffett_letters_collection_spec.md
 
 # Empty directories
 letters-zh/
+
+# Python catalog tooling
+__pycache__/
+*.py[cod]

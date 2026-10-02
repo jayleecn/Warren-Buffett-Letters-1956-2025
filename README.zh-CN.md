@@ -4,6 +4,12 @@
 
 由沃伦·E·巴菲特（Warren E. Buffett）撰写的 **91 份文档**精选合集，聚焦价值投资理念与方法论。
 
+## 阅读入口
+
+- [INDEX.md](INDEX.md)：可直接打开 Markdown/PDF 的信件索引，包含财年、签署日期和来源。
+- [catalog.json](catalog.json)：机器可读的元数据与路径，覆盖 91 份巴菲特文档和单独分类的 6 份非巴菲特文档。
+- [多语言知识库](https://github.com/jayleecn/Warren-Buffett-Letters-Vault)：译文与概念/公司/人物导航；本仓库保存原始来源资料。
+
 ## 收录范围
 
 - **巴菲特合伙企业协议（1956）**：创始文件
@@ -65,7 +71,7 @@ Warren Buffett Letters(1956-2025)/
 | [1957-1969 Complete Buffett Partnership Letters (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf) | 29 | 1957–1969 |
 | [rbcpa.com](https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/) | 3 | 1966–1968 |
 | [1965-2012 BH Letters to Shareholders (EPUB)](referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub) | 8 | 1970–1977 |
-| [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html) | 55 | 1978–2025 |
+| [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html) | 50 | 1978–2025 |
 
 ## 版权声明
 
@@ -90,3 +96,28 @@ Warren Buffett Letters(1956-2025)/
 
 - **Kenneth V. Chace**（伯克希尔·哈撒韦总裁）：5 封早期伯克希尔年信（1965–1969）
 - **Charles T. Munger**（伯克希尔·哈撒韦副董事长）：1 封特别信函（2014）
+
+## 维护与检索
+
+先检索 `letters-en-md/`，需要核对排版或来源时再读 PDF/原始文件。这些目录保存同一文档的不同表示，同时搜索会产生重复结果。`referance/` 保存来源合集和原始索引，不是策展后的阅读集合。
+
+`catalog.json` 是索引元数据的统一来源：`primary`/`author` 区分作者，`fiscal_year` 与 `signing_date` 区分财年和签署日期，`signing_date_precision` 保留只知月份的情况。每条记录包含 Markdown/PDF 路径、原始文件路径和已记录的来源。
+
+修改目录数据或新增文档后，运行：
+
+```bash
+python3 scripts/catalog.py --write
+python3 scripts/catalog.py --check
+```
+
+检查器核对全部 Markdown/PDF 配对、作者分类、财年、签署日期、来源路径、生成索引及两份 README 的来源统计；不校验外部来源是否在线或信件正文的学术准确性。
+
+按一个财年或签署日期取元数据，避免读取整个目录：
+
+```bash
+python3 scripts/catalog.py --year 2024
+python3 scripts/catalog.py --date 2025-02-22
+python3 -m unittest discover -s scripts -p 'test_*.py' -v
+```
+
+查询输出 JSON，并保留作者/primary 分类；财年查询可能包含单独分类的非巴菲特文档。
