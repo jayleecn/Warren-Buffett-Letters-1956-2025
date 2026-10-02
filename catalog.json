@@ -1,0 +1,1563 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "id": "1956_Agreement_19560501",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1956,
+      "signing_date": "1956-05-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1956_Agreement_19560501.md",
+      "pdf_path": "letters-en-pdf/1956_Agreement_19560501.pdf",
+      "source_url": "https://www.gurufocus.com/news/126451/original-warren-buffett-partnership-agreement-found-here",
+      "source_group": "gurufocus",
+      "source_paths": [
+        "letters-en-source/1956_Agreement_19560501.md"
+      ],
+      "summary": "The undersigned hereby certify that they have this day entered into a limited partnership, and that: ## I The name of..."
+    },
+    {
+      "id": "1957_Letter_195802",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1957,
+      "signing_date": "1958-02",
+      "signing_date_precision": "month",
+      "markdown_path": "letters-en-md/1957_Letter_195802.md",
+      "pdf_path": "letters-en-pdf/1957_Letter_195802.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1957_Letter_195802.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1957 1957 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska SECOND ANNUAL...",
+      "signing_date_note": "Month inferred from adjacent letters; no explicit dateline."
+    },
+    {
+      "id": "1958_Letter_19590211",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1958,
+      "signing_date": "1959-02-11",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1958_Letter_19590211.md",
+      "pdf_path": "letters-en-pdf/1958_Letter_19590211.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1958_Letter_19590211.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1958 1958 Letter Warren E Buffett 5202 Underwood Ave. Omaha, Nebraska THE GENERAL STOCK..."
+    },
+    {
+      "id": "1959_Letter_19600220",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1959,
+      "signing_date": "1960-02-20",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1959_Letter_19600220.md",
+      "pdf_path": "letters-en-pdf/1959_Letter_19600220.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1959_Letter_19600220.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1959 1959 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska The General Stock..."
+    },
+    {
+      "id": "1960_Letter_19610130",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1960,
+      "signing_date": "1961-01-30",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1960_Letter_19610130.md",
+      "pdf_path": "letters-en-pdf/1960_Letter_19610130.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1960_Letter_19610130.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1960 1960 Letter WARREN E. BUFFETT 5202 Underwood Ave. Omaha, Nebraska The General Stock..."
+    },
+    {
+      "id": "1961_Letter(1)_19610722",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1961,
+      "signing_date": "1961-07-22",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1961_Letter(1)_19610722.md",
+      "pdf_path": "letters-en-pdf/1961_Letter(1)_19610722.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1961_Letter(1)_19610722.pdf"
+      ],
+      "summary": "TO MY PARTNERS: In the past, partners have commented that a once-a-year letter was “a long time between drinks,” and..."
+    },
+    {
+      "id": "1961_Letter(2)_19620124",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1961,
+      "signing_date": "1962-01-24",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1961_Letter(2)_19620124.md",
+      "pdf_path": "letters-en-pdf/1961_Letter(2)_19620124.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1961_Letter(2)_19620124.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1961 1961 Letter BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA January 24,..."
+    },
+    {
+      "id": "1962_Letter(1)_19620706",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1962,
+      "signing_date": "1962-07-06",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1962_Letter(1)_19620706.md",
+      "pdf_path": "letters-en-pdf/1962_Letter(1)_19620706.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1962_Letter(1)_19620706.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1962 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA July 6, 1962 A..."
+    },
+    {
+      "id": "1962_Letter(2)_19621101",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1962,
+      "signing_date": "1962-11-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1962_Letter(2)_19621101.md",
+      "pdf_path": "letters-en-pdf/1962_Letter(2)_19621101.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1962_Letter(2)_19621101.pdf"
+      ],
+      "summary": "TO MY PARTNERS FOR 1963: Here we go on the annual paper flurry. Two copies of an amended partnership agreement for 1963..."
+    },
+    {
+      "id": "1962_Letter(3)_19630118",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1962,
+      "signing_date": "1963-01-18",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1962_Letter(3)_19630118.md",
+      "pdf_path": "letters-en-pdf/1962_Letter(3)_19630118.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1962_Letter(3)_19630118.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1962 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA January 18, 1963 The..."
+    },
+    {
+      "id": "1963_Letter(1)_19630710",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1963,
+      "signing_date": "1963-07-10",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1963_Letter(1)_19630710.md",
+      "pdf_path": "letters-en-pdf/1963_Letter(1)_19630710.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1963_Letter(1)_19630710.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1963 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA July 10, 1963 First..."
+    },
+    {
+      "id": "1963_Letter(2)_19631106",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1963,
+      "signing_date": "1963-11-06",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1963_Letter(2)_19631106.md",
+      "pdf_path": "letters-en-pdf/1963_Letter(2)_19631106.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1963_Letter(2)_19631106.pdf"
+      ],
+      "summary": "To My Partners for 1964: Enclosed is the usual assortment of Thanksgiving reading material: (1) Two copies of an..."
+    },
+    {
+      "id": "1963_Letter(3)_19640118",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1963,
+      "signing_date": "1964-01-18",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1963_Letter(3)_19640118.md",
+      "pdf_path": "letters-en-pdf/1963_Letter(3)_19640118.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1963_Letter(3)_19640118.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1963 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA January 18, 1964 Our..."
+    },
+    {
+      "id": "1964_Letter(1)_19640708",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1964,
+      "signing_date": "1964-07-08",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1964_Letter(1)_19640708.md",
+      "pdf_path": "letters-en-pdf/1964_Letter(1)_19640708.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1964_Letter(1)_19640708.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1964 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA July 8, 1964 First Half..."
+    },
+    {
+      "id": "1964_Letter(2)_19650118",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1964,
+      "signing_date": "1965-01-18",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1964_Letter(2)_19650118.md",
+      "pdf_path": "letters-en-pdf/1964_Letter(2)_19650118.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1964_Letter(2)_19650118.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1964 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA January 18, 1965 Our..."
+    },
+    {
+      "id": "1965_Letter(1)_19650709",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1965,
+      "signing_date": "1965-07-09",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1965_Letter(1)_19650709.md",
+      "pdf_path": "letters-en-pdf/1965_Letter(1)_19650709.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1965_Letter(1)_19650709.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1965 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA July 9, 1965 Warren E...."
+    },
+    {
+      "id": "1965_Letter(2)_19651101",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1965,
+      "signing_date": "1965-11-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1965_Letter(2)_19651101.md",
+      "pdf_path": "letters-en-pdf/1965_Letter(2)_19651101.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1965_Letter(2)_19651101.pdf"
+      ],
+      "summary": "To My Partners for 1966: Enclosed are: (1) Two copies or the commitment letter for 1966, one to be kept by you and one..."
+    },
+    {
+      "id": "1965_Letter(3)_19660120",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1965,
+      "signing_date": "1966-01-20",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1965_Letter(3)_19660120.md",
+      "pdf_path": "letters-en-pdf/1965_Letter(3)_19660120.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1965_Letter(3)_19660120.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1965 BUFFETT PARTNERSHIP, LTD. 810 KIEWIT PLAZA OMAHA 31, NEBRASKA January 20, 1966 Our..."
+    },
+    {
+      "id": "1966_Letter(1)_19660712",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1966,
+      "signing_date": "1966-07-12",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1966_Letter(1)_19660712.md",
+      "pdf_path": "letters-en-pdf/1966_Letter(1)_19660712.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1966_Letter(1)_19660712.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1966 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1966_Letter(2)_19661101",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1966,
+      "signing_date": "1966-11-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1966_Letter(2)_19661101.md",
+      "pdf_path": "letters-en-pdf/1966_Letter(2)_19661101.pdf",
+      "source_url": "https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/",
+      "source_group": "rbcpa",
+      "source_paths": [
+        "letters-en-source/1966_Letter(2)_19661101.pdf"
+      ],
+      "summary": "To My Partners for 1967: Enclosed is the usual packet of light reading for the fall semester: 1. Two copies of the..."
+    },
+    {
+      "id": "1966_Letter(3)_19670125",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1966,
+      "signing_date": "1967-01-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1966_Letter(3)_19670125.md",
+      "pdf_path": "letters-en-pdf/1966_Letter(3)_19670125.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1966_Letter(3)_19670125.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1966 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1967_Letter(1)_19670712",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1967,
+      "signing_date": "1967-07-12",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1967_Letter(1)_19670712.md",
+      "pdf_path": "letters-en-pdf/1967_Letter(1)_19670712.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1967_Letter(1)_19670712.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1967 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1967_Letter(2)_19671009",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1967,
+      "signing_date": "1967-10-09",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1967_Letter(2)_19671009.md",
+      "pdf_path": "letters-en-pdf/1967_Letter(2)_19671009.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1967_Letter(2)_19671009.pdf"
+      ],
+      "summary": "To My Partners: Over the past eleven years, I have consistently set forth as the BPL investment goal an average..."
+    },
+    {
+      "id": "1967_Letter(3)_19671101",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1967,
+      "signing_date": "1967-11-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1967_Letter(3)_19671101.md",
+      "pdf_path": "letters-en-pdf/1967_Letter(3)_19671101.pdf",
+      "source_url": "https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/",
+      "source_group": "rbcpa",
+      "source_paths": [
+        "letters-en-source/1967_Letter(3)_19671101.pdf"
+      ],
+      "summary": "To My Partners: Enclosed are: 1. Two copies of the Commitment Letter for 1968, one to be kept by you and one to be..."
+    },
+    {
+      "id": "1967_Letter(4)_19680124",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1967,
+      "signing_date": "1968-01-24",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1967_Letter(4)_19680124.md",
+      "pdf_path": "letters-en-pdf/1967_Letter(4)_19680124.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1967_Letter(4)_19680124.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1967 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1968_Letter(1)_19680711",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1968,
+      "signing_date": "1968-07-11",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1968_Letter(1)_19680711.md",
+      "pdf_path": "letters-en-pdf/1968_Letter(1)_19680711.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1968_Letter(1)_19680711.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1968 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1968_Letter(2)_19681101",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1968,
+      "signing_date": "1968-11-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1968_Letter(2)_19681101.md",
+      "pdf_path": "letters-en-pdf/1968_Letter(2)_19681101.pdf",
+      "source_url": "https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/",
+      "source_group": "rbcpa",
+      "source_paths": [
+        "letters-en-source/1968_Letter(2)_19681101.pdf"
+      ],
+      "summary": "To My Partners: Enclosed are two copies of the Commitment Letter for 1969, one to be kept by you and one to be returned..."
+    },
+    {
+      "id": "1968_Letter(3)_19690122",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1968,
+      "signing_date": "1969-01-22",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1968_Letter(3)_19690122.md",
+      "pdf_path": "letters-en-pdf/1968_Letter(3)_19690122.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1968_Letter(3)_19690122.pdf"
+      ],
+      "summary": "Buffett Partnership Letter - 1968 BUFFETT PARTNERSHIP. LTD. 610 KIEWIT PLAZA OMAHA, NEBRASKA 68131 TELEPHONE 042-4110..."
+    },
+    {
+      "id": "1969_Letter(1)_19690529",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1969,
+      "signing_date": "1969-05-29",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1969_Letter(1)_19690529.md",
+      "pdf_path": "letters-en-pdf/1969_Letter(1)_19690529.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1969_Letter(1)_19690529.pdf"
+      ],
+      "summary": "To My Partners: About eighteen months ago I wrote to you regarding changed environmental and personal factors causing..."
+    },
+    {
+      "id": "1969_Letter(2)_19691009",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1969,
+      "signing_date": "1969-10-09",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1969_Letter(2)_19691009.md",
+      "pdf_path": "letters-en-pdf/1969_Letter(2)_19691009.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1969_Letter(2)_19691009.pdf"
+      ],
+      "summary": "To My Partners: Here is my present estimate of the BPL calendar for the months to come: (1) This letter - to tell you..."
+    },
+    {
+      "id": "1969_Letter(3)_19691205",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1969,
+      "signing_date": "1969-12-05",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1969_Letter(3)_19691205.md",
+      "pdf_path": "letters-en-pdf/1969_Letter(3)_19691205.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1969_Letter(3)_19691205.pdf"
+      ],
+      "summary": "To My Partners: This letter is to supply you with some published information relating to our two controlled companies..."
+    },
+    {
+      "id": "1969_Letter(4)_19691226",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1969,
+      "signing_date": "1969-12-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1969_Letter(4)_19691226.md",
+      "pdf_path": "letters-en-pdf/1969_Letter(4)_19691226.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1969_Letter(4)_19691226.pdf"
+      ],
+      "summary": "To My Partners: Our plans regarding the initial cash distribution have been finalized and we expect to mail to you on..."
+    },
+    {
+      "id": "1969_Letter(5)_19700225",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1969,
+      "signing_date": "1970-02-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1969_Letter(5)_19700225.md",
+      "pdf_path": "letters-en-pdf/1969_Letter(5)_19700225.pdf",
+      "source_url": "https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf",
+      "source_group": "ivey",
+      "source_paths": [
+        "letters-en-source/1969_Letter(5)_19700225.pdf"
+      ],
+      "summary": "To My Partners: This letter will attempt to provide a very elementary education regarding tax-exempt bonds with..."
+    },
+    {
+      "id": "1970_Letter_19710315",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1970,
+      "signing_date": "1971-03-15",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1970_Letter_19710315.md",
+      "pdf_path": "letters-en-pdf/1970_Letter_19710315.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1970_Letter_19710315.html",
+        "letters-en-source/1970_Letter_19710315.pdf"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ The past year witnessed dramatically diverse earnings results among..."
+    },
+    {
+      "id": "1971_Letter_19720313",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1971,
+      "signing_date": "1972-03-13",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1971_Letter_19720313.md",
+      "pdf_path": "letters-en-pdf/1971_Letter_19720313.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1971_Letter_19720313.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ It is a pleasure to report that operating earnings in 1971, excluding..."
+    },
+    {
+      "id": "1972_Letter_19730316",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1972,
+      "signing_date": "1973-03-16",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1972_Letter_19730316.md",
+      "pdf_path": "letters-en-pdf/1972_Letter_19730316.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1972_Letter_19730316.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ Operating earnings of Berkshire Hathaway during 1972 amounted to a..."
+    },
+    {
+      "id": "1973_Letter_19740329",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1973,
+      "signing_date": "1974-03-29",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1973_Letter_19740329.md",
+      "pdf_path": "letters-en-pdf/1973_Letter_19740329.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1973_Letter_19740329.html",
+        "letters-en-source/1973_Letter_19740329.pdf"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ Our financial results for 1973 were satisfactory, with operating..."
+    },
+    {
+      "id": "1974_Letter_19750331",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1974,
+      "signing_date": "1975-03-31",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1974_Letter_19750331.md",
+      "pdf_path": "letters-en-pdf/1974_Letter_19750331.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1974_Letter_19750331.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ Operating results for 1974 overall were unsatisfactory due to the poor..."
+    },
+    {
+      "id": "1975_Letter_197604",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1975,
+      "signing_date": "1976-04",
+      "signing_date_precision": "month",
+      "markdown_path": "letters-en-md/1975_Letter_197604.md",
+      "pdf_path": "letters-en-pdf/1975_Letter_197604.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1975_Letter_197604.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ Last year, when discussing the prospects for 1975, we stated “the...",
+      "signing_date_note": "No explicit dateline; earliest inferred month from the March 31 data."
+    },
+    {
+      "id": "1976_Letter_19770321",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1976,
+      "signing_date": "1977-03-21",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1976_Letter_19770321.md",
+      "pdf_path": "letters-en-pdf/1976_Letter_19770321.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1976_Letter_19770321.html",
+        "letters-en-source/1976_Letter_19770321.pdf"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ After two dismal years, operating results in 1976 improved..."
+    },
+    {
+      "id": "1977_Letter_19780314",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1977,
+      "signing_date": "1978-03-14",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1977_Letter_19780314.md",
+      "pdf_path": "letters-en-pdf/1977_Letter_19780314.pdf",
+      "source_url": "referance/1965-2012_Berkshire_Hathaway_Letters_to_Shareholders.epub",
+      "source_group": "epub",
+      "source_paths": [
+        "letters-en-source/1977_Letter_19780314.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.:_ Operating earnings in 1977 of $21,904,000, or $22.54 per share, were..."
+    },
+    {
+      "id": "1978_Letter_19790326",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1978,
+      "signing_date": "1979-03-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1978_Letter_19790326.md",
+      "pdf_path": "letters-en-pdf/1978_Letter_19790326.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1978.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1978_Letter_19790326.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: First, a few words about accounting. The merger with Diversified..."
+    },
+    {
+      "id": "1979_Letter_19800303",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1979,
+      "signing_date": "1980-03-03",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1979_Letter_19800303.md",
+      "pdf_path": "letters-en-pdf/1979_Letter_19800303.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1979.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1979_Letter_19800303.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Again, we must lead off with a few words about accounting. Since our..."
+    },
+    {
+      "id": "1980_Letter_19810227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1980,
+      "signing_date": "1981-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1980_Letter_19810227.md",
+      "pdf_path": "letters-en-pdf/1980_Letter_19810227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1980.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1980_Letter_19810227.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Operating earnings improved to $41.9 million in 1980 from $36.0 million..."
+    },
+    {
+      "id": "1981_Letter_19820226",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1981,
+      "signing_date": "1982-02-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1981_Letter_19820226.md",
+      "pdf_path": "letters-en-pdf/1981_Letter_19820226.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1981.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1981_Letter_19820226.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Operating earnings of $39.7 million in 1981 amounted to 15.2% of..."
+    },
+    {
+      "id": "1982_Letter_19830303",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1982,
+      "signing_date": "1983-03-03",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1982_Letter_19830303.md",
+      "pdf_path": "letters-en-pdf/1982_Letter_19830303.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1982.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1982_Letter_19830303.html"
+      ],
+      "summary": "To the Stockholders of Berkshire Hathaway Inc.: Operating earnings of $31.5 million in 1982 amounted to only 9.8% of..."
+    },
+    {
+      "id": "1983_Letter_19840314",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1983,
+      "signing_date": "1984-03-14",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1983_Letter_19840314.md",
+      "pdf_path": "letters-en-pdf/1983_Letter_19840314.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1983.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1983_Letter_19840314.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: This past year our registered shareholders increased from about 1900 to..."
+    },
+    {
+      "id": "1984_Letter_19850225",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1984,
+      "signing_date": "1985-02-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1984_Letter_19850225.md",
+      "pdf_path": "letters-en-pdf/1984_Letter_19850225.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1984.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1984_Letter_19850225.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1984 was $152.6 million, or $133 per..."
+    },
+    {
+      "id": "1985_Letter_19860304",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1985,
+      "signing_date": "1986-03-04",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1985_Letter_19860304.md",
+      "pdf_path": "letters-en-pdf/1985_Letter_19860304.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1985.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1985_Letter_19860304.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: You may remember the wildly upbeat message of last year’s report:..."
+    },
+    {
+      "id": "1986_Letter_19870227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1986,
+      "signing_date": "1987-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1986_Letter_19870227.md",
+      "pdf_path": "letters-en-pdf/1986_Letter_19870227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1986.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1986_Letter_19870227.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1986 was $492.5 million, or 26.1%. Over..."
+    },
+    {
+      "id": "1987_Letter_19880229",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1987,
+      "signing_date": "1988-02-29",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1987_Letter_19880229.md",
+      "pdf_path": "letters-en-pdf/1987_Letter_19880229.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1987.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1987_Letter_19880229.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1987 was $464 million, or 19.5%. Over the..."
+    },
+    {
+      "id": "1988_Letter_19890228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1988,
+      "signing_date": "1989-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1988_Letter_19890228.md",
+      "pdf_path": "letters-en-pdf/1988_Letter_19890228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1988.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1988_Letter_19890228.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1988 was $569 million, or 20.0%. Over the..."
+    },
+    {
+      "id": "1989_Letter_19900302",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1989,
+      "signing_date": "1990-03-02",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1989_Letter_19900302.md",
+      "pdf_path": "letters-en-pdf/1989_Letter_19900302.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1989_Letter_19900302.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1989 was $1.515 billion, or 44.4%. Over..."
+    },
+    {
+      "id": "1990_Letter_19910301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1990,
+      "signing_date": "1991-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1990_Letter_19910301.md",
+      "pdf_path": "letters-en-pdf/1990_Letter_19910301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1990.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1990_Letter_19910301.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Last year we made a prediction: \"A reduction [in Berkshire's net worth]..."
+    },
+    {
+      "id": "1991_Letter_19920228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1991,
+      "signing_date": "1992-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1991_Letter_19920228.md",
+      "pdf_path": "letters-en-pdf/1991_Letter_19920228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1991.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1991_Letter_19920228.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1991 was $2.1 billion, or 39.6%. Over the..."
+    },
+    {
+      "id": "1992_Letter_19930301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1992,
+      "signing_date": "1993-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1992_Letter_19930301.md",
+      "pdf_path": "letters-en-pdf/1992_Letter_19930301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1992.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1992_Letter_19930301.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our per-share book value increased 20.3% during 1992. Over the last 28..."
+    },
+    {
+      "id": "1993_Letter_19940301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1993,
+      "signing_date": "1994-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1993_Letter_19940301.md",
+      "pdf_path": "letters-en-pdf/1993_Letter_19940301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1993.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1993_Letter_19940301.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our per-share book value increased 14.3% during 1993. Over the last 29..."
+    },
+    {
+      "id": "1994_Letter_19950307",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1994,
+      "signing_date": "1995-03-07",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1994_Letter_19950307.md",
+      "pdf_path": "letters-en-pdf/1994_Letter_19950307.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1994.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1994_Letter_19950307.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1994 was $1.45 billion or 13.9%. Over the..."
+    },
+    {
+      "id": "1995_Letter_19960301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1995,
+      "signing_date": "1996-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1995_Letter_19960301.md",
+      "pdf_path": "letters-en-pdf/1995_Letter_19960301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1995.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1995_Letter_19960301.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1995 was $5.3 billion, or 45.0%. Per-share..."
+    },
+    {
+      "id": "1996_Letter_19970228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1996,
+      "signing_date": "1997-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1996_Letter_19970228.md",
+      "pdf_path": "letters-en-pdf/1996_Letter_19970228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1996.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1996_Letter_19970228.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1996 was $6.2 billion, or 36.1%. Per-..."
+    },
+    {
+      "id": "1997_Letter_19980227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1997,
+      "signing_date": "1998-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1997_Letter_19980227.md",
+      "pdf_path": "letters-en-pdf/1997_Letter_19980227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1997.html",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1997_Letter_19980227.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1997 was $8.0 billion, which increased the..."
+    },
+    {
+      "id": "1998_Letter_19990301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1998,
+      "signing_date": "1999-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1998_Letter_19990301.md",
+      "pdf_path": "letters-en-pdf/1998_Letter_19990301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1998ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1998_Letter_19990301.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1998 was $25.9 billion, which increased..."
+    },
+    {
+      "id": "1999_Letter_20000301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 1999,
+      "signing_date": "2000-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/1999_Letter_20000301.md",
+      "pdf_path": "letters-en-pdf/1999_Letter_20000301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/1999ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/1999_Letter_20000301.html"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 1999 was $358 million, which increased the..."
+    },
+    {
+      "id": "2000_Letter_20010228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2000,
+      "signing_date": "2001-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2000_Letter_20010228.md",
+      "pdf_path": "letters-en-pdf/2000_Letter_20010228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2000ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2000_Letter_20010228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2000 was $3.96 billion, which increased..."
+    },
+    {
+      "id": "2001_Letter_20020228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2001,
+      "signing_date": "2002-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2001_Letter_20020228.md",
+      "pdf_path": "letters-en-pdf/2001_Letter_20020228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2001ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2001_Letter_20020228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s loss in net worth during 2001 was $3.77 billion, which..."
+    },
+    {
+      "id": "2002_Letter_20030221",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2002,
+      "signing_date": "2003-02-21",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2002_Letter_20030221.md",
+      "pdf_path": "letters-en-pdf/2002_Letter_20030221.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2002ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2002_Letter_20030221.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2002 was $6.1 billion, which increased the..."
+    },
+    {
+      "id": "2003_Letter_20040227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2003,
+      "signing_date": "2004-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2003_Letter_20040227.md",
+      "pdf_path": "letters-en-pdf/2003_Letter_20040227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2003ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2003_Letter_20040227.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2003 was $13.6 billion, which increased..."
+    },
+    {
+      "id": "2004_Letter_20050228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2004,
+      "signing_date": "2005-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2004_Letter_20050228.md",
+      "pdf_path": "letters-en-pdf/2004_Letter_20050228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2004ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2004_Letter_20050228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2004 was $8.3 billion, which increased the..."
+    },
+    {
+      "id": "2005_Letter_20060228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2005,
+      "signing_date": "2006-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2005_Letter_20060228.md",
+      "pdf_path": "letters-en-pdf/2005_Letter_20060228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2005ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2005_Letter_20060228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2005 was $5.6 billion, which increased the..."
+    },
+    {
+      "id": "2006_Letter_20070228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2006,
+      "signing_date": "2007-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2006_Letter_20070228.md",
+      "pdf_path": "letters-en-pdf/2006_Letter_20070228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2006ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2006_Letter_20070228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2006 was $16.9 billion, which increased..."
+    },
+    {
+      "id": "2007_Letter_20080201",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2007,
+      "signing_date": "2008-02-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2007_Letter_20080201.md",
+      "pdf_path": "letters-en-pdf/2007_Letter_20080201.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2007ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2007_Letter_20080201.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2007 was $12.3 billion, which increased..."
+    },
+    {
+      "id": "2008_Letter_20090227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2008,
+      "signing_date": "2009-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2008_Letter_20090227.md",
+      "pdf_path": "letters-en-pdf/2008_Letter_20090227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2008_Letter_20090227.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our decrease in net worth during 2008 was $11.5 billion, which reduced..."
+    },
+    {
+      "id": "2009_Letter_20100226",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2009,
+      "signing_date": "2010-02-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2009_Letter_20100226.md",
+      "pdf_path": "letters-en-pdf/2009_Letter_20100226.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2009ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2009_Letter_20100226.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Our gain in net worth during 2009 was $21.8 billion, which increased..."
+    },
+    {
+      "id": "2010_Letter_20110226",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2010,
+      "signing_date": "2011-02-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2010_Letter_20110226.md",
+      "pdf_path": "letters-en-pdf/2010_Letter_20110226.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2010ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2010_Letter_20110226.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: The per-share book value of both our Class A and Class B stock..."
+    },
+    {
+      "id": "2011_Letter_20120225",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2011,
+      "signing_date": "2012-02-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2011_Letter_20120225.md",
+      "pdf_path": "letters-en-pdf/2011_Letter_20120225.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2011ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2011_Letter_20120225.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: The per-share book value of both our Class A and Class B stock..."
+    },
+    {
+      "id": "2012_Letter_20130301",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2012,
+      "signing_date": "2013-03-01",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2012_Letter_20130301.md",
+      "pdf_path": "letters-en-pdf/2012_Letter_20130301.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2012_Letter_20130301.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: In 2012, Berkshire achieved a total gain for its shareholders of $24.1..."
+    },
+    {
+      "id": "2013_Letter_20140228",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2013,
+      "signing_date": "2014-02-28",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2013_Letter_20140228.md",
+      "pdf_path": "letters-en-pdf/2013_Letter_20140228.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2013ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2013_Letter_20140228.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s gain in net worth during 2013 was $34.2 billion. That gain..."
+    },
+    {
+      "id": "2014_Letter(1)_20150227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2014,
+      "signing_date": "2015-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2014_Letter(1)_20150227.md",
+      "pdf_path": "letters-en-pdf/2014_Letter(1)_20150227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2014_Letter(1)_20150227.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s gain in net worth during 2014 was $18.3 billion, which..."
+    },
+    {
+      "id": "2014_Letter(2)_20150227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2014,
+      "signing_date": "2015-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2014_Letter(2)_20150227.md",
+      "pdf_path": "letters-en-pdf/2014_Letter(2)_20150227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/SpecialLetters/WEB%20BH%2050th.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2014_Letter(2)_20150227.pdf"
+      ],
+      "summary": "Berkshire Hathaway Shareholder Letter - 2014 # Berkshire – Past, Present and Future ## In the Beginning On May 6, 1964,...",
+      "signing_date_note": "Date from the companion annual-report letter."
+    },
+    {
+      "id": "2015_Letter_20160227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2015,
+      "signing_date": "2016-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2015_Letter_20160227.md",
+      "pdf_path": "letters-en-pdf/2015_Letter_20160227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2015ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2015_Letter_20160227.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s gain in net worth during 2015 was $15.4 billion, which..."
+    },
+    {
+      "id": "2016_Letter_20170225",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2016,
+      "signing_date": "2017-02-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2016_Letter_20170225.md",
+      "pdf_path": "letters-en-pdf/2016_Letter_20170225.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2016ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2016_Letter_20170225.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s gain in net worth during 2016 was $27.5 billion, which..."
+    },
+    {
+      "id": "2017_Letter_20180224",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2017,
+      "signing_date": "2018-02-24",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2017_Letter_20180224.md",
+      "pdf_path": "letters-en-pdf/2017_Letter_20180224.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2017ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2017_Letter_20180224.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire’s gain in net worth during 2017 was $65.3 billion, which..."
+    },
+    {
+      "id": "2018_Letter_20190223",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2018,
+      "signing_date": "2019-02-23",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2018_Letter_20190223.md",
+      "pdf_path": "letters-en-pdf/2018_Letter_20190223.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2018ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2018_Letter_20190223.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire earned $4.0 billion in 2018 utilizing generally accepted..."
+    },
+    {
+      "id": "2019_Letter_20200222",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2019,
+      "signing_date": "2020-02-22",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2019_Letter_20200222.md",
+      "pdf_path": "letters-en-pdf/2019_Letter_20200222.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2019ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2019_Letter_20200222.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire earned $81.4 billion in 2019 according to generally accepted..."
+    },
+    {
+      "id": "2020_Letter_20210227",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2020,
+      "signing_date": "2021-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2020_Letter_20210227.md",
+      "pdf_path": "letters-en-pdf/2020_Letter_20210227.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2020ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2020_Letter_20210227.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire earned $42.5 billion in 2020 according to generally accepted..."
+    },
+    {
+      "id": "2021_Letter_20220226",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2021,
+      "signing_date": "2022-02-26",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2021_Letter_20220226.md",
+      "pdf_path": "letters-en-pdf/2021_Letter_20220226.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2021ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2021_Letter_20220226.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Charlie Munger, my long-time partner, and I have the job of managing a..."
+    },
+    {
+      "id": "2022_Letter_20230225",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2022,
+      "signing_date": "2023-02-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2022_Letter_20230225.md",
+      "pdf_path": "letters-en-pdf/2022_Letter_20230225.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2022ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2022_Letter_20230225.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Charlie Munger, my long-time partner, and I have the job of managing..."
+    },
+    {
+      "id": "2023_Letter_20240224",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2023,
+      "signing_date": "2024-02-24",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2023_Letter_20240224.md",
+      "pdf_path": "letters-en-pdf/2023_Letter_20240224.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2023_Letter_20240224.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: Berkshire has more than three million shareholder accounts. I am..."
+    },
+    {
+      "id": "2024_Letter(1)_20241125",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2024,
+      "signing_date": "2024-11-25",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2024_Letter(1)_20241125.md",
+      "pdf_path": "letters-en-pdf/2024_Letter(1)_20241125.pdf",
+      "source_url": "https://www.berkshirehathaway.com/SpecialLetters/WEB%20past%20present%20future%2011-25.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2024_Letter(1)_20241125.pdf"
+      ],
+      "summary": "Berkshire Hathaway Shareholder Letter - 2024 BERKSHIRE HATHAWAY INC. NEWS RELEASE FOR IMMEDIATE RELEASE November 25,..."
+    },
+    {
+      "id": "2024_Letter(2)_20250222",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2024,
+      "signing_date": "2025-02-22",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2024_Letter(2)_20250222.md",
+      "pdf_path": "letters-en-pdf/2024_Letter(2)_20250222.pdf",
+      "source_url": "https://www.berkshirehathaway.com/letters/2024ltr.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2024_Letter(2)_20250222.pdf"
+      ],
+      "summary": "To the Shareholders of Berkshire Hathaway Inc.: This letter comes to you as part of Berkshire’s annual report. As a..."
+    },
+    {
+      "id": "2025_Letter_20251110",
+      "primary": true,
+      "author": "Warren E. Buffett",
+      "fiscal_year": 2025,
+      "signing_date": "2025-11-10",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/2025_Letter_20251110.md",
+      "pdf_path": "letters-en-pdf/2025_Letter_20251110.pdf",
+      "source_url": "https://www.berkshirehathaway.com/SpecialLetters/WEB%20special%20letter%2011-2025.pdf",
+      "source_group": "berkshire",
+      "source_paths": [
+        "letters-en-source/2025_Letter_20251110.pdf"
+      ],
+      "summary": "Berkshire Hathaway Shareholder Letter - 2025 BERKSHIRE HATHAWAY INC. NEWS RELEASE FOR IMMEDIATE RELEASE November 10,..."
+    },
+    {
+      "id": "1965_Letter(4)_19651109_Kenneth V. Chace",
+      "primary": false,
+      "author": "Kenneth V. Chace",
+      "fiscal_year": 1965,
+      "signing_date": "1965-11-09",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/1965_Letter(4)_19651109_Kenneth V. Chace.md",
+      "pdf_path": "letters-en-pdf/non-buffett/1965_Letter(4)_19651109_Kenneth V. Chace.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/1965_Letter(4)_19651109_Kenneth V. Chace.html"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "1966_Letter(4)_19661202_Kenneth V. Chace",
+      "primary": false,
+      "author": "Kenneth V. Chace",
+      "fiscal_year": 1966,
+      "signing_date": "1966-12-02",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/1966_Letter(4)_19661202_Kenneth V. Chace.md",
+      "pdf_path": "letters-en-pdf/non-buffett/1966_Letter(4)_19661202_Kenneth V. Chace.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/1966_Letter(4)_19661202_Kenneth V. Chace.html"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "1967_Letter(5)_19680308_Kenneth V. Chace",
+      "primary": false,
+      "author": "Kenneth V. Chace",
+      "fiscal_year": 1967,
+      "signing_date": "1968-03-08",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/1967_Letter(5)_19680308_Kenneth V. Chace.md",
+      "pdf_path": "letters-en-pdf/non-buffett/1967_Letter(5)_19680308_Kenneth V. Chace.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/1967_Letter(5)_19680308_Kenneth V. Chace.html"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "1968_Letter(4)_19690312_Kenneth V. Chace",
+      "primary": false,
+      "author": "Kenneth V. Chace",
+      "fiscal_year": 1968,
+      "signing_date": "1969-03-12",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/1968_Letter(4)_19690312_Kenneth V. Chace.md",
+      "pdf_path": "letters-en-pdf/non-buffett/1968_Letter(4)_19690312_Kenneth V. Chace.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/1968_Letter(4)_19690312_Kenneth V. Chace.html"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "1969_Letter(6)_19700403_Kenneth V. Chace",
+      "primary": false,
+      "author": "Kenneth V. Chace",
+      "fiscal_year": 1969,
+      "signing_date": "1970-04-03",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/1969_Letter(6)_19700403_Kenneth V. Chace.md",
+      "pdf_path": "letters-en-pdf/non-buffett/1969_Letter(6)_19700403_Kenneth V. Chace.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/1969_Letter(6)_19700403_Kenneth V. Chace.html"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "2014_Letter(3)_20150227_Charles T. Munger",
+      "primary": false,
+      "author": "Charles T. Munger",
+      "fiscal_year": 2014,
+      "signing_date": "2015-02-27",
+      "signing_date_precision": "day",
+      "markdown_path": "letters-en-md/non-buffett/2014_Letter(3)_20150227_Charles T. Munger.md",
+      "pdf_path": "letters-en-pdf/non-buffett/2014_Letter(3)_20150227_Charles T. Munger.pdf",
+      "source_url": null,
+      "source_group": "local",
+      "source_paths": [
+        "letters-en-source/non-buffett/2014_Letter(3)_20150227_Charles T. Munger.pdf"
+      ],
+      "summary": ""
+    }
+  ]
+}
